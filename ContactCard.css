@@ -1,0 +1,59 @@
+*{
+     font-family: "Helvetica", sans-serif;
+     margin: 5px;
+     padding: 0px;
+}
+
+h1{
+     background-color: black;
+     color: white;
+     padding: 20px 5px 10px 5px;
+     width: 900px;
+}
+
+p{
+     margin: 10px;
+}
+
+input{
+     padding: 5px;
+     width: 300px;
+     margin-bottom: 15px;
+}
+
+textarea{
+     padding: 5px;
+     width: 304px;
+}
+
+button{
+     padding: 5px 10px;
+     background-color: gold;
+}
+
+.newContact{
+     background-color: silver;
+     display: inline-block;
+     width: 350px;
+     padding: 10px;
+}
+
+.leftSide{
+     width: 400px;
+     display: inline-block;
+}
+
+.rightSide{
+     border: solid 5px black;
+     display: inline-block;
+     vertical-align: top;
+     width: 450px;
+}
+
+#contactCard{
+     border: solid 2px silver;
+     padding: 10px;
+     text-align: center;
+     margin-left: 85px;
+     width: 250px;
+}
